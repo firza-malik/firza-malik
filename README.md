@@ -1,14 +1,4 @@
-### Hi there 👋
 
-<!--
-**firza-malik/firza-malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to# 💫 About Me:
-I am AI Student
 
 
 ## 🌐 Socials:
@@ -33,10 +23,5 @@ I am AI Student
 ---
 [![](https://visitcount.itsvg.in/api?id=firza-malik&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-
 -->
